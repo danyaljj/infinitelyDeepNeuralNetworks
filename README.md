@@ -52,7 +52,9 @@ Unlike others we don't do BackPropagation. Instead we just use magic. Pretty str
  
  ![](http://sd.keepcalm-o-matic.co.uk/i-w600/haha-i-was-just-kidding-you.jpg)
  
- Just a little teasing who are create fantacy stories AI, without . 
+ Just a little teasing who are create fantacy stories AI. 
  And those who overhype findings. 
  
- Keep learning, creating and teaching and let our knowledge grow! May all us human live in a better and peaceful world. 
+ 
+ Keep learning, creating, and let our progress flow in the reasonable direction + pace! 
+ May all us human live in a better and peaceful world. 
